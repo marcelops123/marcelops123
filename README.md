@@ -2,10 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelops123&label=Profile%20views&color=0e75b6&style=flat" alt="thislucasme" /> </p>
 
-<p align="left"> <a href="https://twitter.com/marcelops123" target="blank"><img src="https://img.shields.io/twitter/follow/thislucasme?logo=twitter&style=for-the-badge" alt="marcelops123" /></a> </p>
+<p align="left"> <a href="https://twitter.com/marcelinrds" target="blank"><img src="https://img.shields.io/twitter/follow/marcelinrds?logo=twitter&style=for-the-badge" alt="marcelops123" /></a> </p>
 
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/marcelops123">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
