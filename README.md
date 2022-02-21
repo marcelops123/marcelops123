@@ -22,6 +22,6 @@
 </div>
   <br><a href="https://twitter.com/marcelinrds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thislucasme" height="30" width="40" /></a>
   <a href="https://www.instagram.com/marcelops123/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+ <h3 align="left">My Contributions:</h3>
 
 ![Snake animation](https://github.com/marcelops123/marcelops123/blob/output/github-contribution-grid-snake.svg)
