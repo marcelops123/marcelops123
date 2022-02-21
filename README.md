@@ -1,4 +1,4 @@
-<h1> Hi! My name is Marcelin. </h1>
+<h1> Hi, my name is Marcelin. </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelops123&label=Profile%20views&color=0e75b6&style=flat" alt="thislucasme" /> </p>
 
