@@ -3,6 +3,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelops123&label=Profile%20views&color=0e75b6&style=flat" alt="thislucasme" /> </p>
 
 <p align="left"> <a href="https://twitter.com/marcelinrds" target="blank"><img src="https://img.shields.io/twitter/follow/marcelinrds?logo=twitter&style=for-the-badge" alt="marcelops123" /></a> </p>
+  
+- 🔭 I’m currently working on **SuccessSistemas**
+
+- 🌱 I’m currently learning **Nestjs, ReactJs, TypeScript**
+
+- 💬 Ask me about **Java, ReactJS**
+
+- 📫 How to reach me **marceloaugusto10123@gmail.com**
+
 
 <div>
   <a href="https://github.com/marcelops123">
