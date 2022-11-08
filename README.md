@@ -6,9 +6,9 @@
   
 - 🔭 I’m currently working on **SuccessSistemas**
 
-- 🌱 I’m currently learning **Nestjs, ReactJs, TypeScript**
+- 🌱 I’m currently learning **XHarbour, Nestjs, ReactJs, TypeScript**
 
-- 💬 Ask me about **Java, ReactJS**
+- 💬 Ask me about **TypeScript, ReactJS**
 
 - 📫 How to reach me **marceloaugusto10123@gmail.com**
 <br>
