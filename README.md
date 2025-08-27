@@ -6,9 +6,9 @@
   
 - 🔭 I’m currently working on **IrrigaPrime as High Developer**
 
-- 🌱 I’m currently learning **Java, Nestjs, ReactJs, TypeScript**
+- 🌱 I’m currently learning **Java, Nestjs, ReactJs, TypeScript, PHP, JavaScript**
 
-- 💬 Ask me about **TypeScript, ReactJS**
+- 💬 Ask me about **TypeScript, ReactJS, Node, MySQL**
 
 - 📫 How to reach me **marceloaugusto10123@gmail.com**
 <br>
