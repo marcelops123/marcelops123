@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/marcelinrds" target="blank"><img src="https://img.shields.io/twitter/follow/marcelinrds?logo=twitter&style=for-the-badge" alt="marcelops123" /></a> </p>
   
-- 🔭 I’m currently working on **Irriga Prime**
+- 🔭 I’m currently working on **IrrigaPrime as High Developer**
 
 - 🌱 I’m currently learning **Java, Nestjs, ReactJs, TypeScript**
 
